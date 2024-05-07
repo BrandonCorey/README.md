@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Brandon Corey, a software engineer with experience in full stack development and data analysis
+I'm Brandon Corey, a software engineer with experience in full stack development and data analysis.
 
 ## About Me
 - 💻 Experienced software engineer with a focus on full-stack development and data analysis.
