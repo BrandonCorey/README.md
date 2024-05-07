@@ -14,7 +14,7 @@ I'm Brandon Corey, a software engineer with experience in full stack development
 - Implemented scalable real-time event delivery pipeline and React frontend for intuitive data visualization.
 
 ## Skills Snapshot
-- **Backend:** Node.js, TypeScript, Go, Python, SQL, MongoDB.
-- **Frontend:** JavaScript, React, TailwindCSS, HTML, CSS.
-- **Cloud/Infra:** Terraform, Docker, AWS (EC2, Kinesis, Redshift, Lambda, S3).
-- **Other:** Git, Linux, HTTP, REST, Jest, React Testing Library.
+- **Backend:** Node, TypeScript, Go/Golang, Python, SQL, MongoDB, Express.
+- **Frontend:** JavaScript, TypeScript, React, React Query, TailwindCSS, DaisyUI, HTML, CSS, Recharts.
+- **Cloud/Infra:** Terraform, Docker, Nginx, AWS (EC2, Kinesis, Redshift, Lambda, S3, API Gateway, Cloudwatch).
+- **Other:** Git, Github, Linux, HTTP, Websockets, SSE, REST, Jest, React Testing Library, BubbleTea, Cobra.
